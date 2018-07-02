@@ -1,0 +1,11 @@
+{
+    "contributors": [
+        "Tristan McNab <tristan.j.mcnab@gmail.com>"
+    ],
+    "description": "5GL Language, Runtime & Editor",
+    "license": "AGPL-3.0",
+    "name": "abyssal",
+    "private": false,
+    "repository": "git@github.com:tmcnab/abyssal.git",
+    "version": "0.1.0"
+}
